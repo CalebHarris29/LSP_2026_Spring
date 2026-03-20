@@ -1,0 +1,3 @@
+TaskManager collaborates with Task because its responsibilities include storing tasks, adding new tasks, finding a task by ID, and returning tasks by status. In order to perform those responsibilities, TaskManager must directly work with Task objects.
+
+Task does not collaborate with TaskManager because its responsibilities are limited to storing task information, updating task status, and providing task details. A Task object only manages its own data and does not need to control or manage the larger task collection.
