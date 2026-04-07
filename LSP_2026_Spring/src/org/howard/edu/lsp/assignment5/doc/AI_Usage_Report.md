@@ -1,0 +1,1 @@
+Used ChatGPT to assist with understanding assignment requirements, Eclipse setup, debugging, and verifying correctness of the IntegerSet implementation.
